@@ -213,7 +213,8 @@ p {
     /* Gato */
 
     .gato {
-        width: 160px;
+        width: 40vw;
+        max-width: 140px;
     }
 
     .janela-carta.final .gato {
